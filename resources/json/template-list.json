@@ -1,0 +1,88 @@
+{
+    "menu_admin": [
+        {
+            "navheader": "Home Page",
+            "icon": "more_horiz"
+        },
+        {
+            "url": "admin/home",
+            "name": "Home Page",
+            "i18n": "Home Page",
+            "class": "waves-effect waves-cyan",
+            "icon": "home",
+            "slug": "home"
+        },
+        {
+            "navheader": "Users",
+            "icon": "more_horiz"
+        },
+        {
+            "url": "admin/users-list",
+            "name": "User List",
+            "i18n": "User List",
+            "class": "waves-effect waves-cyan",
+            "slug": "users-list",
+            "icon": "list"
+        },
+        {
+            "url": "admin/user-add",
+            "name": "User Add",
+            "i18n": "User Add",
+            "class": "waves-effect waves-cyan",
+            "slug": "user-add",
+            "icon": "add"
+        },
+        {
+            "navheader": "My Profile",
+            "icon": "more_horiz"
+        },
+        {
+            "url": "admin/my-profile",
+            "name": "My Profile",
+            "i18n": "My Profile",
+            "class": "waves-effect waves-cyan",
+            "slug": "admin/my-profile",
+            "icon": "people"
+        },
+        {
+            "navheader": "Categories",
+            "icon": "more_horiz"
+        },
+        {
+            "url": "admin/categories-list",
+            "name": "Category List",
+            "i18n": "Category List",
+            "class": "waves-effect waves-cyan",
+            "slug": "categories-list",
+            "icon": "list"
+        },
+        {
+            "url": "admin/category-add",
+            "name": "Category Add",
+            "i18n": "Category Add",
+            "class": "waves-effect waves-cyan",
+            "slug": "category-add",
+            "icon": "add"
+        },
+        {
+            "navheader": "Products",
+            "icon": "more_horiz"
+        },
+        {
+            "url": "admin/products-list",
+            "name": "Product List",
+            "i18n": "Product List",
+            "class": "waves-effect waves-cyan",
+            "slug": "products-list",
+            "icon": "list"
+        },
+        {
+            "url": "admin/product-add",
+            "name": "Product Add",
+            "i18n": "Product Add",
+            "class": "waves-effect waves-cyan",
+            "slug": "product-add",
+            "icon": "add"
+        }
+    ]
+}
